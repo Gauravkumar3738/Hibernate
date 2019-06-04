@@ -18,7 +18,6 @@
   
   <!-- https://mvnrepository.com/artifact/cc.duduhuo.applicationtoast/applicationtoast -->
 
-  
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
